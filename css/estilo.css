@@ -1,0 +1,33 @@
+div.container {
+    width: 700px;
+    border: 1px solid black;
+    margin: 25px auto;
+    padding: 15px;
+    margin-top: 160px;
+}
+h1{
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 25px auto;
+}
+
+
+div.espaco{
+    margin-top: 10px;
+}
+
+#info{
+    margin-top: 10px;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+div.total{
+    margin-left: 570px;
+}
